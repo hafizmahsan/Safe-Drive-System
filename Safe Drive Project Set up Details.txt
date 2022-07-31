@@ -1,0 +1,11 @@
+- haar cascade folder contains the haar cascade files
+
+- In the models folder, the Deep Learning Model file name "cnnCat2.h5" is placed, and we will load the model
+from there
+
+- and in the Report of User Data in Tabular Form, in which the we will give the database credentials and we
+can see the Driver's name, id and inactiveness date and time
+
+- alarm file is used to generate the alarm
+
+- Complete.ipynb file contains the code of safe drive
